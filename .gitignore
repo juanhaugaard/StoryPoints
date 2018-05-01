@@ -1,0 +1,33 @@
+target/
+out/
+node_modules/
+public/
+!.mvn/wrapper/maven-wrapper.jar
+*.bak
+*~
+### Visual Studio Code ###
+.vscode
+.vscode-*.json
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
